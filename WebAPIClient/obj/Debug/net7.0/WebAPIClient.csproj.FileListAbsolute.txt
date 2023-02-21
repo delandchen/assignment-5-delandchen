@@ -1,0 +1,17 @@
+/Users/delandchen/Desktop/School CS Projects/WebAPIClient/WebAPIClient/obj/Debug/net7.0/WebAPIClient.csproj.AssemblyReference.cache
+/Users/delandchen/Desktop/School CS Projects/WebAPIClient/WebAPIClient/obj/Debug/net7.0/WebAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/delandchen/Desktop/School CS Projects/WebAPIClient/WebAPIClient/obj/Debug/net7.0/WebAPIClient.AssemblyInfoInputs.cache
+/Users/delandchen/Desktop/School CS Projects/WebAPIClient/WebAPIClient/obj/Debug/net7.0/WebAPIClient.AssemblyInfo.cs
+/Users/delandchen/Desktop/School CS Projects/WebAPIClient/WebAPIClient/obj/Debug/net7.0/WebAPIClient.csproj.CoreCompileInputs.cache
+/Users/delandchen/Desktop/School CS Projects/WebAPIClient/WebAPIClient/bin/Debug/net7.0/WebAPIClient
+/Users/delandchen/Desktop/School CS Projects/WebAPIClient/WebAPIClient/bin/Debug/net7.0/WebAPIClient.deps.json
+/Users/delandchen/Desktop/School CS Projects/WebAPIClient/WebAPIClient/bin/Debug/net7.0/WebAPIClient.runtimeconfig.json
+/Users/delandchen/Desktop/School CS Projects/WebAPIClient/WebAPIClient/bin/Debug/net7.0/WebAPIClient.dll
+/Users/delandchen/Desktop/School CS Projects/WebAPIClient/WebAPIClient/bin/Debug/net7.0/WebAPIClient.pdb
+/Users/delandchen/Desktop/School CS Projects/WebAPIClient/WebAPIClient/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/delandchen/Desktop/School CS Projects/WebAPIClient/WebAPIClient/obj/Debug/net7.0/WebAPIClient.csproj.CopyComplete
+/Users/delandchen/Desktop/School CS Projects/WebAPIClient/WebAPIClient/obj/Debug/net7.0/WebAPIClient.dll
+/Users/delandchen/Desktop/School CS Projects/WebAPIClient/WebAPIClient/obj/Debug/net7.0/refint/WebAPIClient.dll
+/Users/delandchen/Desktop/School CS Projects/WebAPIClient/WebAPIClient/obj/Debug/net7.0/WebAPIClient.pdb
+/Users/delandchen/Desktop/School CS Projects/WebAPIClient/WebAPIClient/obj/Debug/net7.0/WebAPIClient.genruntimeconfig.cache
+/Users/delandchen/Desktop/School CS Projects/WebAPIClient/WebAPIClient/obj/Debug/net7.0/ref/WebAPIClient.dll
